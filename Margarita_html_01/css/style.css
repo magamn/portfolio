@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#section1{
+    background-image: url('../image/right-gradient.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    
+}
+
+
+h1{
+    color: #cfcdb4;
+    font-family: nevis;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 18px;
+    text-transform: uppercase;
+    margin-left: -17px;
+}
+
+.logo{
+    color: #af9671;
+    font-family: Georgia;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 18px;
+    margin-top: 13px;
+    margin-left: -17px;
+}
+.mynav{
+    padding-top: 50px;
+}
+.navbar-toggler-icon{
+    color: #af9671;
+}
+.mylink {
+    color: #af9671;
+    font-family: "Arial MT";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-top: -45px;
+    margin-right: 33px;
+    
+}
+h2{
+    color: #ea9f3e;
+    font-family: "Arial MT";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: uppercase;
+    margin-top: 7px;
+}
+.text_1{
+    color: #cfcdb4;
+    font-family: Georgia;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: 20px;
+    }
+
+.text3{
+    color: #cfcdb4;
+    font-family: Georgia;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.hire_me{
+    max-width: 100%;
+    height: auto;
+}
+.mymail{
+    color: #ea9f3e;
+}
+.mail{
+    color: #cfcdb4;
+    float: left;
+}
+#container1{
+    background-image: url('../image/dark_area.png');
+    background-color: #201b0e;
+    background-repeat: repeat-x;
+    height: auto;  
+}
+h4{
+    color: #af9671;
+    font-family: Georgia;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-top: 10px;
+}
+h5{
+    color: #cfcdb4;
+    font-family: Georgia;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+#container1 .col-sm-4 img {
+    border: solid 0.5px #e2b57e;
+    padding: 3px;
+}
+
+#container1 h2 {
+    margin: 30px 0;
+}
+#container2{
+    background-color: #2d2413;
+    padding-bottom:  60px;
+}
+
+.cont2{
+    display: inline-flex;
+}
+#container2 .col-sm-4 {
+    margin-top: 30px;
+}
+#container2 h5 {
+    
+    color: #af9671;
+    font-family: Georgia;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+.test_cont2 {
+    color: #a5a28c;
+    font-family: Georgia;
+    line-height: 18px;
+    font-size: 14px;
+    margin-bottom: 30px;
+    
+    
+}
+#container2 h2 {
+    padding-left: 20px;
+}
+.icon {
+    padding-left: 20px;
+    padding-top: 4px;
+    color: #af9671;
+    font-family: Georgia;
+    line-height: 18px;
+    font-size: 14px; 
+}
+.my_icon{
+    margin-bottom: 20px; 
+    margin-top: 20px; 
+    
+}
+
+.myimg{
+    width: 25px;
+    height: 25px;
+    float: left;
+    margin-right: 10px;
+}
+.text_pic{
+    display: inline-flex;
+}
+.mail{
+    color: #ea9f3e;
+    font-family: Georgia;  
+}
+.mail1{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: #a5a28c;
+    
+}
+.return{
+    color: #ea9f3e;
+    font-family: Georgia;
+    margin-left: -15px;
+}
+#container3 {
+    background-color: #201b0e;
+}
+#container3  p {
+    color: #a5a28c;
+    font-family: Georgia;
+    line-height: 18px;
+    padding: 30px 0;
+    margin-left: -15px;
+    font-size: 14px;
+}
+@media only screen and (max-width: 770px) {
+  
+  .text_pic{
+    display: inline-block;
+} 
+    @media only screen and (max-width: 590px) {
+  
+  .mail{
+    font-size: 12px;
+    float: left;
+      
+}
+   @media only screen and (max-width: 575px) {
+  
+  #container1{
+    background-image: url('../image/dark_area.png');
+    background-repeat: repeat;
+   
+    
+    
+    
+}
+}  
+   
+    
+
+ 
+    
+
