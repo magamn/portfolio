@@ -1,0 +1,662 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+header{
+    background-color: #545351;
+}
+.my_cont_1{
+    position: relative ;
+}
+.my_nav {
+    position: absolute;
+    z-index: 10;
+}
+.logo_text {
+    color: #ffffff;
+    font-family: Raleway;
+    font-size: 34px;
+    font-weight: 400;
+    letter-spacing: -1.36px;
+    margin-right: 70px;
+}
+
+.logo_text:hover{
+    color: #ffffff;
+}
+
+
+.nav-link{
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    margin-right: 30px;
+}
+
+.nav-link:hover{
+    color: #c7b299;
+}
+.form-inline a{
+    margin-left: 20px;
+}
+
+.btn{
+    width: 170px;
+    height: 53px;
+    border-radius: 3px;
+    background-color: #998675;
+    margin-top: 20px;
+    color: #ffffff;
+    font-family: "Raleway - Extra Bold";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23px;
+    text-transform: uppercase;
+}
+.my_toggler{
+    color: aliceblue;
+}
+
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: #ffffff;
+}
+
+.text_car {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    width: 589px;
+}
+.text_car1{
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 500;
+    }
+.text_car2 {
+    color: #ffffff;
+    font-family: "Raleway - Extra Bold";
+    font-size: 52px;
+    font-weight: 400;
+    margin-top: -35px;
+    margin-bottom: -10px;
+}
+.text_car3{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+}
+.sect_1{
+    background-color: #fff;
+    padding-bottom: 100px;
+}
+.my_row{
+    padding-top: 50px;
+    text-align: center;
+}
+.my_row img{
+    width: 45px;
+    height: 45px;
+    }
+
+.text_sect_1{
+    color: #555555;
+    font-family: "Raleway - Semi Bold";
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    text-decoration: none;
+}
+.text_sect_2{
+    color: #8c8c8c;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+}
+.text_sect_2:hover{
+    color:  #c7b299;
+}
+.line:hover{
+    border-bottom-color: #c7b299;
+}
+.line{
+    border-bottom: 3px solid #f1eee9;
+    padding-bottom: 50px;
+    width: 80px;
+    margin: 0 auto;
+}
+.text_sect_1:hover{
+    color:  #c7b299;   
+}
+.img_row{
+    background-image: url('/image/icon.png');
+    width: 49px;
+    height: 49px;
+    display: block;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+.img_row:hover{
+    background-image: url('/image/icon-copy1.png'); 
+}
+.img_row1{
+    background-image: url('/image/icon1copy.png');
+    width: 49px;
+    height: 49px;
+    display: block;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+.img_row1:hover{
+    background-image: url('/image/icon%20(1).png');
+}
+.img_row2{
+    background-image: url('/image/icon (2).png');
+    width: 49px;
+    height: 49px;
+    display: block;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+.img_row2:hover{
+    background-image: url('/image/icon2copy.png');
+}
+.img_row3{
+    background-image: url('/image/icon%20(3).png');
+    width: 49px;
+    height: 49px;
+    display: block;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+.img_row3:hover{
+    background-image: url('/image/icon3copy.png');
+}
+.cont2{
+    text-align: center;
+    padding-top: 50px;  
+}
+.my_cont2{
+    
+    background-color: #fbfaf8;
+}
+.my_cont2 p{
+    padding-bottom: 30px;
+    padding-top: 20px;
+   
+}
+.my_cont3{
+    background-color: #261e1b;
+    padding: 40px 30px;
+}
+.mult{
+    color: #ffffff;
+    font-family: Raleway;
+    font-size: 28px;
+    font-weight: 400;
+}
+.wax{
+    font-family: Raleway;
+    font-size: 28px;
+    font-weight: 400;
+    color: #c7b299;
+}
+.forget{
+    margin-top: -16px;
+    color: #615855;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.our{
+    color: #555555;
+    font-family: "Raleway - Semi Bold";
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}
+.inv{
+    color: #8c8c8c;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: center;
+}
+.my_cont4_text{
+    padding-top: 50px;
+}
+
+.my_link_4{
+    width: 110px;
+    padding: 2px 10px;
+    color: #8c8c8c;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 21px;
+    border: 0.5px solid #998675;
+    text-align: center;
+}
+.my_link_4:hover {
+    border-radius: 3px;
+    background-color: #998675;
+    color: #fff;
+}
+.card-text1{
+    color: #c7b299;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 500; 
+}
+.card-text2{
+    color: #d1d1d1;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    margin-top: -16px;
+}
+.my-card{
+    position: relative;
+    border-style: none!important;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+}
+.my_img_4{
+    display: block;
+    width: 330px;
+    height: 250px;
+}
+.overlay{
+    top:20px;
+    width: 330px;
+    height: 250px;
+    position: absolute;
+    transition: all .3s ease;
+    opacity: 0;
+    background-color:darkgray
+}
+.overlay:hover {
+   opacity: .6; 
+
+}
+.overlay-text{
+   position: absolute;  
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top:35%;
+    display: none;
+}
+.my-card a{
+    display: block;
+    text-decoration: none;
+}
+.my-card a:hover .overlay-text{
+    display: block;   
+}
+.my-card a:hover .my_text_card{
+    display: block; 
+    background-color: #615855;
+    padding: 20px 10px;
+    text-align: left;
+}
+
+
+.my_text_card{
+    padding: 20px 10px;
+    background-color: #fbfaf8;
+    text-align: left;
+    display: block;
+    
+}
+.imgBox{
+    position: relative;
+    min-width: 700px;
+    min-height: 475px;
+    display: block;
+    
+  
+}
+.imgleft{
+    position: absolute;
+    left: 0;
+    
+    
+}
+.imgcenter{
+    position: absolute;
+    left: 15%;
+    
+   
+    z-index: 5;
+}
+.imgright{
+    position: absolute;
+    right: 0;
+}
+
+
+.my_cont6{
+    padding-top: 70px;
+}
+
+.my_cont6 li{
+    list-style-type: none;
+    background-image: url('/image/01.png') no-repeat 0 4px;
+    padding-left: 24px;
+    color: #8c8c8c;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 32px;
+    
+}
+.my_cont6 ul{
+    padding-left: 40px;
+}
+.ex{
+    color: #555555;
+    font-family: "Raleway - Semi Bold";
+    font-size: 30px;
+    font-weight: 400;
+}
+.qisi{
+    color: #8c8c8c;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+}
+
+.num{
+    color: #ffffff;
+    font-family: "Montserrat - Ultra Light";
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 36px;
+    padding-top: 30px;
+}
+.sati{
+    color: #c7b299;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+.line1{
+    border-bottom: 2px solid #ffffff;
+    width: 30px;
+    margin: 0 auto;
+
+}
+.my_cont7 {
+    background-color: #261e1b;
+    padding: 50px 20px;
+}
+.res{
+    color: #555555;
+    font-family: "Raleway - Semi Bold";
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.inves{
+    color: #8c8c8c;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+}
+.my_cont8{
+    padding: 50px 20px; 
+    text-align: left;
+}
+.card-text3{
+    color: #555555;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: -3px;
+    padding-left: 15px;
+}
+.card-text4{
+    color: #8c8c8c;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    text-align: left;
+    padding-left: 15px;
+}
+.read{
+
+    color: #c7b299;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    cursor: pointer;
+    
+    
+}
+.day1{
+   
+    width: 50px;
+    height: 35px;
+    border-radius: 3px 3px 0 0;
+    background-color: #363636;
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.day2{ 
+    width: 50px;
+    height: 25px;
+    border-radius: 0 0 3px 3px;
+    background-color: #252525;
+    color: #fff;
+    margin-left: 20px;
+    margin-top: -17px;
+}
+.my_cont_9{
+    background-image: url('/image/5.png');
+    background-repeat: no-repeat;
+    padding: 100px 0;
+    background-color: darkgrey;
+    
+}
+.rec{
+
+    color: #ffffff;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 700;
+    padding-bottom: 20px;   
+}
+
+.my_cont_10{
+    background-color: #191919;
+    padding: 100px 0;
+}
+.lor{
+    color: #555555;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+}
+.lor:hover{
+    color: #c7b299;
+}
+.sep{
+    color: #555555;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+    margin-bottom: -3px;
+}
+.sep:hover {
+    color: #fff;
+}
+.read_more{
+    text-decoration: none;
+    color: #d1d1d1;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.fa-caret-right{
+    margin-left: 6px; 
+}
+.logo_w{
+    margin-top: -10px;
+    padding-bottom: 22px;
+}
+td{
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.my-cont-10 ul{
+    list-style-type: none;
+    display: block;
+    margin-left: 20px;
+}
+.my-cont-10 li{
+    display: block;
+    float: left;
+    margin-right: 10px;
+}
+.my-cont-10 a{
+    text-decoration: none; 
+    font-family: Montserrat;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 20px;
+    color: #d1d1d1;
+}
+.my-cont-10 a:hover{
+    color: #c7b299;
+}
+.my-cont-10{
+    padding: 30px 0;
+}
+.my-cont-10-fl{
+    background-color: #111111;
+}
+.my-cont-10 p{
+    color: #d1d1d1;
+}
+.my-cont-10 span{
+    color: #c7b299;
+}
+.des{
+    color: #959595;
+    font-family: Montserrat;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 20px;
+    margin-left: 15px;
+}
+@media only screen and (max-width: 1200px) {
+  .imgcenter {
+    left: 10%;
+  }
+}
+@media only screen and (max-width: 1050px) {
+  .nav-link {
+    
+    font-size: 12px;
+    font-weight: 300;
+    
+  }
+}
+@media only screen and (max-width: 994px) {
+  .my_nav{
+    position: absolute;
+   left: 0;
+    
+  }
+    .nav-link{
+        margin-right: 5px;
+    }
+    .imgBox{
+    display:flex;
+        align-items: center;
+        max-width: 300px;
+    }
+    .imgcenter{
+        position: absolute;
+        width: 500px;
+        left: 10%;
+    }
+    .imgleft{
+        display: none;
+    }
+    .imgright{
+        display: none;
+    }
+    td img{
+        width: 80%;
+    }
+    .my_cont_9 img{
+        width: 80%;
+    }
+}
+@media only screen and (max-width: 820px) {
+  .my_nav{
+    position: absolute;
+   left: 0;
+    
+  }
+    .nav-link{
+        margin-right: 1px;
+    }
+}
+@media only screen and (max-width: 570px) {
+  .my_row2{
+    margin-top: 20px;
+    
+  }
+    .line{
+        display: none;
+    }
+    .text_sect_1{
+        margin-top: -5px;
+    }
+    .cont_9{
+        width: 400px;
+        padding: 10px;
+        
+        
+    }
+    .cont_9 img{
+        width: 30%;
+        
+    }
+}
+
+
